@@ -1,0 +1,139 @@
+/* our-clients */
+.our-clients{
+  margin-top: 20px;
+  font-family: Philosopher;
+  margin-top: 150px;
+}
+.OurClients__h5{
+  line-height: 35px;
+}
+.service img{
+  width: 100%;
+  height: 150px;
+  transition: 2000ms;
+}
+.service{
+  overflow: hidden;
+  background-color: white;
+  border: 1px solid black;
+  filter: drop-shadow(2px 2px 2px);
+}
+.service div{
+  overflow: hidden;
+}
+.service img:hover{
+  transform: scale(1.1);
+}
+.company-list img{
+  width: 100%;
+  height: 120px;
+  transition: 2000ms;
+}
+.company-list__div img{
+  width: 100%;
+  height: 100px;
+  cursor: pointer;
+}
+.company-list img:hover{
+  transform: scale(1.15);
+}
+/* end of our-clients  */
+
+/* about us */
+.about-us{
+  font-family: Philosopher;
+  margin-top: 150px;
+}
+.our-work{
+  background-color: rgb(220, 219, 219);
+  padding:30px 0px 100px 0px;
+  margin-top: 50px;
+}
+.our-work img{
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+}
+.containers {
+  position: relative;
+  width: 100%;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.7); 
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: height 0.5s ease;
+}
+.containers:hover .overlay {
+  height: 100%; 
+}
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  bottom:40%; 
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.containers:hover .text {
+  opacity: 1; 
+}
+.hr{
+  width: 12%;
+}
+.hr1{
+  width: 15%;
+}
+.about-us h5{
+  line-height: 35px;
+}
+.our-work button{
+  border: none;
+
+}
+.our-work button img{
+  width: 40px;
+  height: 40px;
+}
+
+/* end of about us */
+
+/* contact us */
+.contact-us{
+  font-family: Philosopher;
+  padding: 100px 0px 50px 0px;
+}
+.contact-us__container{
+  background-color: black;
+  border-radius:10px;
+  box-shadow:6px 6px 6px 6px rgb(81, 81, 81) ;
+  padding: 20px;
+  margin-top: 60px;
+}
+.hr3{
+  width: 20%;
+}
+.white-line {
+  border-top: 1px solid white; 
+}
+/* end of contact-us */
+
+@media screen and (min-width:375px) and (max-width:767px) {
+  .our-work__div{
+    width: 350px;
+    background-color: white;
+  }
+}
+@media screen and (min-width:1024px) and (max-width:1200px) {
+  .our-work__div{
+    width:300px;
+  }
+}

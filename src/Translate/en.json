@@ -1,0 +1,86 @@
+{
+  "navbar.home": "Home",
+  "navbar.clients": "Our Clients",
+  "navbar.aboutUs": "About Us",
+  "navbar.contactUs": "Contact Us",
+
+  "header.title":"Welcome to MarineTop, a leading company in the fields of construction, engineering, and energy services, including supply services",
+
+  "ourvision.vision":"Our vision",
+  "ourvision.visionpar":"Our vision is for our company to be a leader in achieving development and innovation in the fields of engineering, energy and construction, contributing to creating a sustainable and prosperous future.",
+  "ourgoal.goal":"Our goals",
+  "ourgoal.goalpar":"Enhancing our role in the energy field to include renewable and sustainable energy services , Expanding the scope of our work to include new partnerships with international companies and institutions in the fields of engineering, energy and construction , Expanding into new areas within our company to supply equipment, and provide high-quality engineering consultations.",
+
+  "workscope.title":"scope of works",
+  "workScope.item1title":"Subcontractor",
+  "workScope.item1par":"Marine Top Company cooperates with major institutions and companies and works with them as a subcontractor in huge projects and contributes with its experience, efficiency, labor and equipment to the completion of these projects.",
+  "workScope.item2title":"Project partnership",
+  "workScope.item2par":"Marine Top Company possesses the necessary capabilities, competencies and experience to qualify it to be a partner in local and international companies and in various and diverse projects related to the field of navigational and petroleum services.",
+  "workScope.item3title":"Main general contractor",
+  "workScope.item3par":"Marine Top Company is proud to carry out engineering and construction works for its projects, including engineering work for natural gas lines, preparing designs, supplying and installing lines, operating and maintenance work, technical support and other services.",
+  "workScope.item4title":"Distinguished Regions",
+  "workScope.item4par":"Marine Top Company owns the largest concession areas in Egypt,  and conducts operation and maintenance work in residential cities and industrial areas, namely (Damietta, Port Said, Alexandria, Suez, Cairo, Ismailia, Dakahlia).",
+
+  "aboutUs.title": "Who We Are",
+  "aboutUs.title1": "ABOUT US",
+  "aboutUs.name": "Marine Top",
+  "aboutUs.content": "for Maritime, Petroleum Services, and General Contracting is an Egyptian joint stock company established in 1997. The company specializes in constructing small and large-scale projects and has contributed remarkably to the success of large projects. The company provides skilled labor supply, installation of electrical and mechanical equipment, gas pipeline works, and safety requirements such as barriers, fences, barbed wire, camera gates, planning, construction, accommodation camps, earthworks, and land leveling. The company holds an environmental waste license and handles hazardous and non-hazardous liquid and solid waste. Additionally, they offer transportation services, garden maintenance, rodent control, marine operations, ship provisioning, and maintenance.",
+
+  "aboutUs.servicesTitle" :  "Our Services and Activities",
+  "aboutUs.servicesp1":"Oil and gas services",
+  "aboutUs.servicesp2":"Supplying all types of labor",
+  "aboutUs.servicesp3":"We specialize in underwater arc welding",
+  "aboutUs.servicesp4":"Building various service units (service hotels)",
+  "aboutUs.servicesp5":"Supply of mechanical equipment (pumps)",
+  "aboutUs.servicesp6":"Maintenance of oil and gas lines",
+  "aboutUs.servicesp7":"Supply of chemicals",
+  "aboutUs.servicesp8":"Establishing watchtowers",
+  "aboutUs.servicesp9":"Building various service units, hospitals",
+
+  "footer.contactusTitle":"Contact Us",
+  "footer.contactusLocation":"Damietta: Faraskour - 5th Street Hadith",
+  "footer.contactusMail":"Marinetop2.services@gmail.com",
+  "footer.contactusPhone":"01025050102 - 01204348040 ",
+  
+  "footer.information":"Information",
+  "footer.information1":"Privacy Policy",
+  "footer.information2":"Refund Policy",
+  "footer.information3":"Shipping Policy",
+  "footer.information4":"Terms of services",
+  "footer.information5":"Blogs",
+
+  "footer.Account":"Account",
+  "footer.AccountSearch":"Search",
+  "footer.AccountInfo":"About Us",
+  "footer.AccountInstructions":"Faq",
+  "footer.AccountConatactus":"Contact",
+  "footer.AccountChart":"Size Chart",
+
+  "footer.company":"Companies",
+  "footer.comapnyLlist":"Listed companies",
+  "footer.companyNote":"Corporate notebook",
+  "footer.companyPrice":"Stock prices",
+  "footer.companyAds":"Earnings announcements",
+  "footer.companyInner":"Internal transactions",
+
+  "footer.copyright":"© 2024 All Rights Reserved by MarineTop",
+  
+
+  "contactus.title":"Communicate with the company",
+  "contactus.titles":"Contact Us",
+  "contactus.content":"We are here to assist you and answer your inquiries. You can reach us using the following methods:",
+  "contactus.address":"Address:",
+  "contactus.addressno":"Damietta: Faraskour - 5th Street Hadith",
+  "contactus.email":"Email:",
+  "contactus.emailaddress":"Marinetop2.services@gmail.com",
+  "contactus.emailaddress2":"bosaty2013@gmail.com",
+  "contactus.phone":"Phone Number:",
+  "contactus.phoneno":" 01025050102 - 01204348040",
+  "contactus.mail":"Use this mail to get in touch with our company faster:",
+
+
+  "OurClients.title":"Our Valuable Clients",
+  "OurClients.titles":"Our Clients",
+  "OurClients.content":"We express our deep gratitude to our valued customers and partners for their unwavering support and trust in our company. Your cooperation and dedication have been instrumental in shaping our journey and driving our success. We greatly appreciate the opportunity to work with such outstanding individuals and organizations, and remain committed to delivering excellence in every endeavor. Together we have achieved significant milestones, and we look forward to continuing this journey of growth, innovation and shared success. Thank you for being an integral part of our story."
+}
+
