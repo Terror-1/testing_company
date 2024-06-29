@@ -21,7 +21,7 @@ function Scope() {
         <div className=' d-flex  justify-content-center '>
           <hr className='hr2'/>
         </div>
-        <Row sm={1} md={2} lg={4} className='m-5 g-3'>
+        <Row sm={1} md={2} lg={3} className='m-5 g-3'>
           <div className=''>
           <Col>
             <div className='workScope__item'>
@@ -48,7 +48,7 @@ function Scope() {
           </Col>
           </div>
           
-          <div>
+          {/* <div>
           <Col>
             <div className='workScope__item'>
               <div className=' d-flex justify-content-center '>
@@ -59,7 +59,7 @@ function Scope() {
             </div>
           </Col>
           </div>
-        
+         */}
           <div>
           <Col>
             <div className='workScope__item'>
