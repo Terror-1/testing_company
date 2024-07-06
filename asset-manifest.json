@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/testing_company/static/css/main.29f67dee.css",
-    "main.js": "/testing_company/static/js/main.04075aa0.js",
+    "main.js": "/testing_company/static/js/main.e160f4b5.js",
     "static/js/453.fbc15508.chunk.js": "/testing_company/static/js/453.fbc15508.chunk.js",
     "static/media/digital-technology-concept_9083-3172.avif": "/testing_company/static/media/digital-technology-concept_9083-3172.052f88d79d81d3172008.avif",
     "index.html": "/testing_company/index.html",
     "main.29f67dee.css.map": "/testing_company/static/css/main.29f67dee.css.map",
-    "main.04075aa0.js.map": "/testing_company/static/js/main.04075aa0.js.map",
+    "main.e160f4b5.js.map": "/testing_company/static/js/main.e160f4b5.js.map",
     "453.fbc15508.chunk.js.map": "/testing_company/static/js/453.fbc15508.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29f67dee.css",
-    "static/js/main.04075aa0.js"
+    "static/js/main.e160f4b5.js"
   ]
 }
