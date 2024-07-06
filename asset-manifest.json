@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.377f8aec.css",
-    "main.js": "/static/js/main.6acb58fd.js",
-    "static/js/453.fbc15508.chunk.js": "/static/js/453.fbc15508.chunk.js",
-    "static/media/digital-technology-concept_9083-3172.avif": "/static/media/digital-technology-concept_9083-3172.052f88d79d81d3172008.avif",
-    "index.html": "/index.html",
-    "main.377f8aec.css.map": "/static/css/main.377f8aec.css.map",
-    "main.6acb58fd.js.map": "/static/js/main.6acb58fd.js.map",
-    "453.fbc15508.chunk.js.map": "/static/js/453.fbc15508.chunk.js.map"
+    "main.css": "/testing_company/static/css/main.29f67dee.css",
+    "main.js": "/testing_company/static/js/main.04075aa0.js",
+    "static/js/453.fbc15508.chunk.js": "/testing_company/static/js/453.fbc15508.chunk.js",
+    "static/media/digital-technology-concept_9083-3172.avif": "/testing_company/static/media/digital-technology-concept_9083-3172.052f88d79d81d3172008.avif",
+    "index.html": "/testing_company/index.html",
+    "main.29f67dee.css.map": "/testing_company/static/css/main.29f67dee.css.map",
+    "main.04075aa0.js.map": "/testing_company/static/js/main.04075aa0.js.map",
+    "453.fbc15508.chunk.js.map": "/testing_company/static/js/453.fbc15508.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.377f8aec.css",
-    "static/js/main.6acb58fd.js"
+    "static/css/main.29f67dee.css",
+    "static/js/main.04075aa0.js"
   ]
 }
